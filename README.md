@@ -12,40 +12,58 @@
 <br><hr><br>
 
 ## 2. 개발 목표
-<b>인공지능 기반 자율주행 자동차 개발</b>
+$\to$<b> 인공지능 기반 자율주행 자동차 개발</b>
 
 <br><hr><br>
 
 ## 3. 기본 동작도
-<div>
-<img src="https://user-images.githubusercontent.com/61836238/183289185-03f5d433-ad73-4646-a6b6-00c480c211df.PNG" width="800" height="400" align='center'><br><br>
-  <table>
-    <tr>
-      <td align="center"><img src="https://user-images.githubusercontent.com/61836238/183289217-a449808d-27e1-4eba-86d9-c8ed50dd9ade.PNG" width="400" height="400" align='center'></td>
-      <td align="center"><img src="https://user-images.githubusercontent.com/61836238/183289220-6c1b69b1-782e-4fd3-993b-d67677f34d56.PNG" width="400" height="400" align='center'></td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="https://user-images.githubusercontent.com/61836238/183289185-03f5d433-ad73-4646-a6b6-00c480c211df.PNG" width="800" height="400" align='center'></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center"><img src="https://user-images.githubusercontent.com/61836238/183289217-a449808d-27e1-4eba-86d9-c8ed50dd9ade.PNG" width="800" height="400" align='center'></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center"><img src="https://user-images.githubusercontent.com/61836238/183289220-6c1b69b1-782e-4fd3-993b-d67677f34d56.PNG" width="800" height="400" align='center'></td>
+  </tr>
+</table>
 
 <br><hr><br>
 
 ## 4. 개발내용
 #### 1. 하드웨어 구성도
-<img src="https://user-images.githubusercontent.com/61836238/183289287-3767c5b1-22f8-4add-9a18-ea38b66aea66.PNG" width="400" height="400" align='center'>
+<table>
+  <tr>
+    <td align="center"><img src="https://user-images.githubusercontent.com/61836238/183289287-3767c5b1-22f8-4add-9a18-ea38b66aea66.PNG" width="800" height="400" align='center'></td>
+  </tr>
+</table>
+
+<br>
 
 #### 2. CATIA 설계
-<div>
-  <table>
-    <tr>
-      <td align="center"><img src="https://user-images.githubusercontent.com/61836238/183289313-884b1480-5365-4af9-a638-e45be52f1b8c.PNG" width="400" height="400" align='center'></td>
-      <td align="center"><img src="https://user-images.githubusercontent.com/61836238/183289314-a53f5427-cfe2-44a4-94fb-8f1019ad0d1c.PNG" width="400" height="400" align='center'></td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="https://user-images.githubusercontent.com/61836238/183289313-884b1480-5365-4af9-a638-e45be52f1b8c.PNG" width="800" height="400" align='center'></td></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center"><img src="https://user-images.githubusercontent.com/61836238/183289314-a53f5427-cfe2-44a4-94fb-8f1019ad0d1c.PNG" width="800" height="400" align='center'></td></td>
+  </tr>
+</table>
+
+<br>
 
 #### 3. 소프트웨어 구성도
-<img src="https://user-images.githubusercontent.com/61836238/183289511-593f148a-85a4-48ef-a496-3de188debeae.PNG" width="400" height="400" align='center'>
+<img src="https://user-images.githubusercontent.com/61836238/183289511-593f148a-85a4-48ef-a496-3de188debeae.PNG" width="800" height="400" align='center'>
 
+<br>
 
 #### 4. 기술 구현
 <b>(1) 차선인식</b>
@@ -139,7 +157,7 @@
 
 <br><hr><br>
 
-## 6. 설계 모습 & 실제 동작
+## 6. 구현된 모습 & 실제 동작
 <div>
 <img src="https://user-images.githubusercontent.com/61836238/183290481-fc0d5869-7498-4c6d-bf6c-7efab6eff066.jpg" width="400" height="400" align='center'>
 <img src="https://user-images.githubusercontent.com/61836238/183290483-8744ed9e-3a08-4007-b381-6cd321e41fee.jpg" width="400" height="400" align='center'><br><br>
