@@ -5,7 +5,7 @@
   <tr>
     <td align="center"><p><b>김신우</b></p><small>🚗 기계공학</small><br/><small>horse6953@gmail.com</small></td>
     <td align="center"><p><b>조훈</b></p><small>🚗 기계공학</small><br/><small>horse6953@gmail.com</small></td>
-    <td align="center"><a href="https://github.com/Amenable-C"><p><b>최연재</b></p></a><small>💻 Developer</small></td>
+    <td align="center"><a href="https://github.com/Amenable-C"><p><b>최연재</b></p></a><small>🛠 컴퓨터공학</small><small><br/>💻 Developer</small></td>
   </tr> 
 </table>
 
